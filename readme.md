@@ -14,6 +14,8 @@
 * [天猫前端](https://github.com/tmallfe)
 * [腾讯AllyTeam](https://github.com/AlloyTeam)
 * [vuejs](https://github.com/vuejs)
+* [奇舞团](https://github.com/75team)
+* [AOTU Labs](https://github.com/o2team) 凹凸实验室
 
 
 
