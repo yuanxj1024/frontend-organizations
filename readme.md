@@ -16,6 +16,9 @@
 * [vuejs](https://github.com/vuejs)
 * [奇舞团](https://github.com/75team)
 * [AOTU Labs](https://github.com/o2team) 凹凸实验室
+* [Hilo](https://github.com/hiloteam)
+
+	A Cross-end HTML5 Game development solution developed by Alibaba Group
 
 
 
